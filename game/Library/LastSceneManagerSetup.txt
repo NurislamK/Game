@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/PolygonAdventure/DemoScene/AdventureDemo.unity
+  isLoaded: 1
+  isActive: 1
